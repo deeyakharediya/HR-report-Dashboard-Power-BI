@@ -105,4 +105,4 @@ Identify demographic trends that influence employee turnover.
 Enable faster, data-driven HR decision-making using visual analytics.
 📸 6. Dashboard Preview
 
-![HR Analytics Dashboard](images/hr_dashboard.png)
+![HR Analytics Dashboard](https://github.com/deeyakharediya/HR-report-Dashboard-Power-BI/blob/main/HR%20Report%20Dashboard%20.png)
